@@ -1,0 +1,8 @@
+# Django environment variables (using django dotenv)
+
+SECRET_KEY=your-secret-key
+DEBUG=debug mode (True or False)
+POSTGRES_DB=dbName
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=db-password
+POSTGRES_PORT=5432
